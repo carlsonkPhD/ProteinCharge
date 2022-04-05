@@ -1,0 +1,13 @@
+Package: ProteinCharge
+Type: Package
+Title: Calculate charge of a protein at different pH values
+Version: 1.0
+Date: 2022-03-28
+Author@R: person("Kenneth", "Carlson", role = c("aut", "cre"), email="carlsonk@rocketmail.edu")
+Maintainer: Kenneth Carlson <carlsonk@rocketmail.edu>
+Depends: R (>= 3.1)
+Imports: stringr, ggplot2
+Description: This package calculates the charge of a protein given as either a string or a supplied as a text file and creates a plot of the charge over a range of pH values from 0-14. This information can be used to identify the isoelectric point of the protein and can aid in the design of ion exchange (IEX) chromatography purification strategies.
+License: MIT
+Encoding: UTF-8
+RoxygenNote: 7.1.2
