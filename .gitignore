@@ -1,0 +1,8 @@
+#ignore .Rproj.user files
+.Rproj*
+
+#ignore .DS_store
+.DS_Stor
+
+#ignore .Rhistory
+.Rhistory
