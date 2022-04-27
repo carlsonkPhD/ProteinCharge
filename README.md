@@ -1,10 +1,10 @@
 # ProteinCharge
 
-R package of the calculation of theoretical charge of a protein at different pH values. 
+R package to calculate the theoretical charge of a protein at different pH values. 
 
 ## Installation
 
-To install ProteinCharge directly from github the devtools package is required. To install devtools run the following:
+To install ProteinCharge directly from github, the devtools package is required. Run the following to install devtools:
 
 ```R
 install.packages("devtools")
